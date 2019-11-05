@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1562025203 source:c:\users\micha\desktop\poweramp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+
+1562250894 source:c:\users\claudia\desktop\poweramp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+	"time.h"
+
+1562093821 source:c:\users\micha\desktop\poweramp\poweramp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+
+1562154396 source:c:\users\claudia\desktop\tpfinalprogramacion1\poweramp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+	"time.h"
+
+1571857080 source:c:\users\usuario\desktop\poweramp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+	"time.h"
+	"Canciones.h"
+	"Usuarios.h"
+	"Menu.h"
+
+1562168624 source:e:\poweramp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+	"time.h"
+
+1571701761 source:c:\users\micha\desktop\poweramp (1)\poweramp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+	"time.h"
+	"Canciones.h"
+	"Usuarios.h"
+
+1571702334 c:\users\micha\desktop\poweramp (1)\poweramp\canciones.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+	"time.h"
+	"Usuarios.h"
+
+1571508117 source:c:\users\micha\desktop\poweramp (1)\poweramp\canciones.c
+	"Canciones.h"
+
+1571702334 c:\users\micha\desktop\poweramp (1)\poweramp\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+	"time.h"
+	"Canciones.h"
+
+1571701852 source:c:\users\micha\desktop\poweramp (1)\poweramp\usuarios.c
+	"Usuarios.h"
+	"Canciones.h"
+
+1571702024 source:c:\users\micha\desktop\poweramp (1)\poweramp\menu.c
+	"Menu.h"
+
+1571702024 c:\users\micha\desktop\poweramp (1)\poweramp\menu.h
+
+1572652844 source:d:\poweramp\canciones.c
+	"Canciones.h"
+
+1572651634 d:\poweramp\canciones.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+	"time.h"
+	"Usuarios.h"
+
+1572461614 d:\poweramp\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+	"time.h"
+	"Canciones.h"
+
+1572652862 source:d:\poweramp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+	"time.h"
+	"Canciones.h"
+	"Usuarios.h"
+	"Menu.h"
+
+1572461598 d:\poweramp\menu.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+	"time.h"
+	"Usuarios.h"
+	"Canciones.h"
+
+1572651655 source:d:\poweramp\menu.c
+	"Menu.h"
+
+1572461612 source:d:\poweramp\usuarios.c
+	"Usuarios.h"
+
+1572461592 source:d:\poweramp\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1572461600 source:d:\poweramp\playlist.c
+	"Playlist.h"
+
+1572461602 d:\poweramp\playlist.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+	"time.h"
+	"Canciones.h"
+	"Usuarios.h"
+
+1571857078 source:c:\users\usuario\desktop\poweramp\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1572475068 c:\users\usuario\desktop\poweramp\canciones.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+	"time.h"
+	"Usuarios.h"
+
+1572475155 c:\users\usuario\desktop\poweramp\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+	"time.h"
+	"Canciones.h"
+
+1571857084 c:\users\usuario\desktop\poweramp\menu.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+	"time.h"
+	"Usuarios.h"
+	"Canciones.h"
+
+1571857082 source:c:\users\usuario\desktop\poweramp\menu.c
+	"Menu.h"
+
+1571857086 source:c:\users\usuario\desktop\poweramp\playlist.c
+	"Playlist.h"
+
+1571857088 c:\users\usuario\desktop\poweramp\playlist.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"string.h"
+	"time.h"
+	"Canciones.h"
+	"Usuarios.h"
+
+1572475068 source:c:\users\usuario\desktop\poweramp\canciones.c
+	"Canciones.h"
+
+1572475155 source:c:\users\usuario\desktop\poweramp\usuarios.c
+	"Usuarios.h"
+
